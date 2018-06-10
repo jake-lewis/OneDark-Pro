@@ -9,7 +9,7 @@ This repository has been modified from the [forked version by markypython](https
 
 ### Screenshot - Java
 
-![Screenshot](https://raw.githubusercontent.com/jsjlewis96/OneDark-Pro/master/static/screenshot14.png)
+![Screenshot](https://raw.githubusercontent.com/jsjlewis96/OneDark-Pro/master/static/one_dark_pro_italic-vivid.png)
 
 ## Italic Theme (Added 1/28/2018)
 
