@@ -1,43 +1,61 @@
 {
-  "name": "one-dark-pro-italic",
-  "displayName": "One Dark Pro Italic",
-  "description": "Atom's iconic One Dark theme for Visual Studio Code",
-  "version": "2.12.4",
-  "publisher": "markskelton",
-  "bugs": {
-    "url": "https://github.com/Binaryify/OneDark-Pro/issues"
-  },
-  "homepage": "https://binaryify.github.io/OneDark-Pro/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Binaryify/OneDark-Pro"
-  },
-  "engines": {
-    "vscode": "^1.12.0"
-  },
-  "categories": ["Themes"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "One Dark Pro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro.json"
-      },
-      {
-        "label": "One Dark Pro Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro-Italic.json"
-      },
-      {
-        "label": "One Dark Pro Vivid",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro-vivid.json"
-      }
-    ]
-  },
-  "icon": "icon.png",
-  "keywords": ["one dark", "onedark", "one dark pro", "theme", "atom"],
-  "devDependencies": {
-    "docsify-cli": "^3.3.2"
-  }
+	"name": "one-dark-pro-italic",
+	"displayName": "One Dark Pro Italic",
+	"description": "Atom's iconic One Dark theme for Visual Studio Code",
+	"version": "2.12.5",
+	"publisher": "markskelton",
+	"bugs": {
+		"url": "https://github.com/Binaryify/OneDark-Pro/issues"
+	},
+	"homepage": "https://binaryify.github.io/OneDark-Pro/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Binaryify/OneDark-Pro"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "One Dark Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDark-Pro.json"
+			},
+			{
+				"label": "One Dark Pro Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDark-Pro-Italic.json"
+			},
+			{
+				"label": "One Dark Pro Vivid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDark-Pro-vivid.json"
+			}, {
+				"label": "One Dark Pro Italic Vivid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OneDark-Pro-Italic-vivid.json"
+			}
+		]
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"one dark",
+		"onedark",
+		"one dark pro",
+    "theme",
+    "italics",
+		"atom"
+	],
+	"devDependencies": {
+		"docsify-cli": "^3.3.2"
+	},
+	"__metadata": {
+		"id": "e01268c9-4006-48ee-9d37-c8c375afd875",
+		"publisherId": "f48f6947-f1d4-4aef-9bab-5c9fc14b311f",
+		"publisherDisplayName": "Mark Skelton"
+	}
 }
