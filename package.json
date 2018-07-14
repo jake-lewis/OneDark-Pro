@@ -1,16 +1,19 @@
 {
-	"name": "one-dark-pro-italic",
-	"displayName": "One Dark Pro Italic",
+	"name": "one-dark-pro-italic-vivid",
+	"displayName": "One Dark Pro Italic Vivid",
 	"description": "Atom's iconic One Dark theme for Visual Studio Code",
 	"version": "2.12.5",
-	"publisher": "markskelton",
+	"publisher": "jsjlewis96",
+	"author": {
+		"name": "Jake Lewis"
+	},
 	"bugs": {
-		"url": "https://github.com/Binaryify/OneDark-Pro/issues"
+		"url": "https://github.com/jsjlewis96/OneDark-Pro/issues"
 	},
 	"homepage": "https://binaryify.github.io/OneDark-Pro/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Binaryify/OneDark-Pro"
+		"url": "https://github.com/jsjlewis96/OneDark-Pro"
 	},
 	"engines": {
 		"vscode": "^1.12.0"
@@ -52,10 +55,5 @@
 	],
 	"devDependencies": {
 		"docsify-cli": "^3.3.2"
-	},
-	"__metadata": {
-		"id": "e01268c9-4006-48ee-9d37-c8c375afd875",
-		"publisherId": "f48f6947-f1d4-4aef-9bab-5c9fc14b311f",
-		"publisherDisplayName": "Mark Skelton"
 	}
 }
