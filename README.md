@@ -1,6 +1,15 @@
-# OneDark Pro Italic
+# OneDark Pro Italic-Vivid
 
 Atom's iconic One Dark theme, and one of the most downloaded themes for VS Code.
+
+## Italic-Vivid Theme (Added 6/10/2018)
+This repository has been modified from the [forked version by markypython](https://github.com/markypython/OneDark-Pro) to include an italic version with the vivid colouring.
+
+[GitHub repository](https://github.com/jsjlewis96/OneDark-Pro)
+
+### Screenshot - Java
+
+![Screenshot](https://raw.githubusercontent.com/jsjlewis96/OneDark-Pro/master/static/one_dark_pro_italic-vivid.png)
 
 ## Italic Theme (Added 1/28/2018)
 
